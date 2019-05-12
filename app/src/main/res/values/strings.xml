@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrafFIX</string>
+    <string name="junction">1</string>
+    <string name="velocity">0</string>
+    <string name="distance">0</string>
+    <string name="direction">0</string>
+    <string name="possibility">0</string>
+</resources>
